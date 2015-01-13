@@ -2,7 +2,7 @@
 	"author": "guberni",
 	"name": "tellki-port-monitor",
 	"description": "Tellki port monitor",
-	"version": "0.0.4",
+	"version": "0.0.6",
 	"keywords": ["tellki","monitor","port", "tcp", "udp", "real time"],
 	"homepage": "www.tellki.com",
 	"repository" : { 
